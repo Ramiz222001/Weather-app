@@ -92,15 +92,19 @@ Weather_App/
 
 ```bash
 python weather_app.py
+```
 
 ---
 
 ## 🛠️ To Build Executable (Windows)
 
+```bash
 pyinstaller --onefile weather_app.py
+```
 
 ---
 
 ## 🙌 Author
-Rameez Jamadar
+
+Rameez Jamadar  
 This project was built as a beginner-friendly CLI Python project for learning API usage and file handling.
