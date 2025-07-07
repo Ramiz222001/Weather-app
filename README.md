@@ -95,9 +95,11 @@ python weather_app.py
 
 ---
 
-## To build executable (Windows):
+## 🛠️ To Build Executable (Windows)
 
 pyinstaller --onefile weather_app.py
+
+---
 
 ## 🙌 Author
 Rameez Jamadar
