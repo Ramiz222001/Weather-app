@@ -93,6 +93,8 @@ Weather_App/
 ```bash
 python weather_app.py
 
+---
+
 ## To build executable (Windows):
 
 pyinstaller --onefile weather_app.py
